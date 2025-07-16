@@ -28,7 +28,7 @@ const parser = new Parser({
 
 (async () => {
     // 피드 목록
-    const feed = await parser.parseURL('https://본인블로그주소.tistory.com/rss');
+    const feed = await parser.parseURL('https://zhuxiclover.tistory.com/rss');
     
     text += `<ul>`;
     
@@ -52,3 +52,4 @@ const parser = new Parser({
     })
     console.log('업데이트 완료');
 })();
+
