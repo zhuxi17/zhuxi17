@@ -17,6 +17,8 @@
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
   <img alt="Cisco" src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
   <img alt="IoT" src="https://img.shields.io/badge/IoT-00979D?style=flat-square&logo=internetofthings&logoColor=white"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img alt="AI/ML" src="https://img.shields.io/badge/AI/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
 </p>
 
 ## 💻 언어
@@ -26,6 +28,7 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
 </p>
 
 ## 📕 Latest Blog Posts
