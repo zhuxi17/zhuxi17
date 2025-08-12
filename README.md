@@ -30,4 +30,4 @@
 
 ## 📕 Latest Blog Posts
 
-<ul><li><a href='https://zhuxiclover.tistory.com/141' target='_blank'>[TensorFlow] 윈도우 설치</a></li></ul>
+<ul><li><a href='https://zhuxiclover.tistory.com/141' target='_blank'>[TensorFlow] 윈도우 설치</a></li><li><a href='https://zhuxiclover.tistory.com/79' target='_blank'>[ ansible ] 출력값</a></li><li><a href='https://zhuxiclover.tistory.com/78' target='_blank'>[ Debug, 반복문, 조건문 ]</a></li><li><a href='https://zhuxiclover.tistory.com/77' target='_blank'>[ Playbook ]</a></li><li><a href='https://zhuxiclover.tistory.com/76' target='_blank'>[ Ansible ]</a></li><li><a href='https://zhuxiclover.tistory.com/74' target='_blank'>[ 기본 개념 ]</a></li><li><a href='https://zhuxiclover.tistory.com/32' target='_blank'>[Docker] 기본 실습</a></li><li><a href='https://zhuxiclover.tistory.com/30' target='_blank'>[Docker] 개념 및 기초 세팅</a></li><li><a href='https://zhuxiclover.tistory.com/13' target='_blank'>[1-3] Subnet</a></li><li><a href='https://zhuxiclover.tistory.com/12' target='_blank'>[1-2] IPv4 Network-id, Host-id</a></li></ul>
